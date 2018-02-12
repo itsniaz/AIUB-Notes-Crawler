@@ -1,5 +1,5 @@
 #Author : Niaz Ahmed
-#Bug Reports : mr.niaz@live.com
+#Bug Reports : mr.niaz[at]live[dot]com
 
 import os
 import sys
